@@ -45,9 +45,9 @@ Here are some of the skills I've gained:
 
 If you'd like to get in touch or have questions, you can reach me at:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](#)
-- GitHub: [Your GitHub Profile](#)
+- Email: sakacheikomar@gmail.com
+- LinkedIn: https://www.linkedin.com/in/cheik-omar-saka-a1929819b/
+- GitHub: 
 
 ## Acknowledgements
 
